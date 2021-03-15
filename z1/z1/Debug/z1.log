@@ -1,0 +1,8 @@
+﻿  func.c
+F:\projects\sem2\vipz\l2\z1\z1\func.c(19,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+F:\projects\sem2\vipz\l2\z1\z1\func.c(31,40): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+F:\projects\sem2\vipz\l2\z1\z1\func.c(109,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  main.c
+F:\projects\sem2\vipz\l2\z1\z1\main.c(10,37): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  z1.vcxproj -> F:\projects\sem2\vipz\l2\z1\Debug\z1.exe
